@@ -1,6 +1,9 @@
 # reddit_scaper
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10750037"><img src="https://zenodo.org/badge/766047399.svg" alt="DOI"></a>
+
 Reddit Scraper Project
+
 This simple yet powerful Reddit Scraper is designed to fetch comments based on specific keywords over a designated period. Aimed at researchers, data analysts, and enthusiasts interested in textual data analysis, this tool provides an efficient way to gather data from Reddit for various analytical purposes, including sentiment analysis, trend identification, and thematic studies.
 
 Features
